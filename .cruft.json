@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/faradayfan/basic-cookiecutter-template.git",
-  "commit": "0ddc966ea500569f1f515b8fba94c06567238056",
+  "commit": "5a7322cc1a53485c371e043c8b1ddda164885c55",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -9,7 +9,7 @@
       "project_description": "My App is a simple app.",
       "author": "Your Name",
       "_template": "https://github.com/faradayfan/basic-cookiecutter-template.git",
-      "_commit": "0ddc966ea500569f1f515b8fba94c06567238056"
+      "_commit": "5a7322cc1a53485c371e043c8b1ddda164885c55"
     }
   },
   "directory": null
