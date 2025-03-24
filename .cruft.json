@@ -1,0 +1,16 @@
+{
+  "template": "https://github.com/faradayfan/basic-cookiecutter-template.git",
+  "commit": "0ddc966ea500569f1f515b8fba94c06567238056",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "My App",
+      "project_slug": "my-app",
+      "project_description": "My App is a simple app.",
+      "author": "Your Name",
+      "_template": "https://github.com/faradayfan/basic-cookiecutter-template.git",
+      "_commit": "0ddc966ea500569f1f515b8fba94c06567238056"
+    }
+  },
+  "directory": null
+}
